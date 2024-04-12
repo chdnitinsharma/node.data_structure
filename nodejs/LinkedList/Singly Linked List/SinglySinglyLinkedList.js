@@ -44,7 +44,6 @@ addData(45);
 addData(145);
 addData(1145);
 addData(245);
-addData(45);
-
+// 45 -> 145 -> 1145 -> 245
 displayList();
 
